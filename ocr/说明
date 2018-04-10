@@ -1,0 +1,2 @@
+如果jdk版本是32位的 就将  sunday_X32.dll改为 sunday.dll
+64位的同理
